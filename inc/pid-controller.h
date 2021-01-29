@@ -9,7 +9,10 @@
 #define _PID_CONTROLLER_H_
 
 #ifdef __cplusplus
-extern "C" {
+
+extern "C" 
+ { 
+ 
 #endif
 
 #include <inttypes.h>
